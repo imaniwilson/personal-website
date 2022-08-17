@@ -1,3 +1,3 @@
-# Imani Wilson
+# Welcome to my website!
 
-Welcome
+My name is Imani and this is my website.
